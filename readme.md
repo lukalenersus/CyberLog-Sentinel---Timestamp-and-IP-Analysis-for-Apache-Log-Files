@@ -1,6 +1,7 @@
 https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md#threat-modeling
 
 —Parse timestamp and IP from apache log files
+link to apache logs https://httpd.apache.org/docs/current/logs.html
 
 —Correlate data from 2 separate logs, parse and store them using hashmap of lists so you can look it up in O(1) time later
 

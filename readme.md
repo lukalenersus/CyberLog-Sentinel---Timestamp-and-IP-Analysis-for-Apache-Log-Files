@@ -2,6 +2,7 @@ https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-securi
 
 —Parse timestamp and IP from apache log files
 link to apache logs https://httpd.apache.org/docs/current/logs.html
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs
 
 —Correlate data from 2 separate logs, parse and store them using hashmap of lists so you can look it up in O(1) time later
 
